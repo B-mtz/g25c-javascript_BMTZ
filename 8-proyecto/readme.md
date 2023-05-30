@@ -1,6 +1,6 @@
 **Proyecto Final**
 
-Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemplo, un cliente se puede loggear, ver su información, hacer depositos y retiros. 
+Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemplo, un cliente se puede loggear, ver su información, hacer depositos y retiros.
 
 **Consideraciones**
 
@@ -24,6 +24,7 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 4. Debe haber una validacion para cuando el cliente trata de retirar mas dinero del que tiene y el sistema le diga que no es posible.
 5. El cliente no puede depositar mas de 50,000 por dia ni retirar mas de 30,000.
 6. Utilizar commits atomicos y convencionales.
+7. Subirlo a la rama develop, todos los commits deben estan en develop. La rama main, solo debe tener el primer commit.
 
 **Opcional**
 
@@ -33,3 +34,10 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 4. Introducir fuentes e iconos de algun cdn (font awesome, google fonts, etc).
 5. Investigar y explicar como y porque es bueno utilizar la optimizacion de imagenes para nuestros sitios web.
 6. Con base en la tarea 6.8 investigar 1 cosa de accesibilidad que pueda implementar.
+   
+**Formato de la presentacion**
+1. Tiempo de 5min por persona.
+2. Se recomiendan 3min. para explicar su proyecto y 2min para la parte tecnica (que aprendieron y que les costo mas).
+3. Compartir el repo de codigo antes de la clase, se les pedira en un hilo antes de iniciar la clase.
+4. Las preguntas y retro de los senseis son con base en su experiencia y con el objetivo de ayudarlos.
+5. Limite de la retro 1min por sensei.
